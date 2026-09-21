@@ -31,8 +31,12 @@ categories:
         url: https://meta.appinn.net/
         icon: fas fa-link
         description: ''
-      - name: LINUX DO - 新的理想型社区
+      - name: LINUX DO
         url: https://linux.do/
+        icon: fas fa-link
+        description: ''
+      - name: 网盘资源社-免费的主流网盘资源分享社区论坛
+        url: https://kuakezy.top/
         icon: fas fa-link
         description: ''
   - name: 实用工具
@@ -40,14 +44,18 @@ categories:
     path:
       - 实用工具
     subcategories:
-      - name: 图片工具
+      - name: 图片处理
         icon: fas fa-folder
         path:
           - 实用工具
-          - 图片工具
+          - 图片处理
         sites:
           - name: 在线图片编辑工具
             url: https://llccj.cn/
+            icon: fas fa-link
+            description: ''
+          - name: Xnapper Studio：截图美化
+            url: https://xnapper.com/app
             icon: fas fa-link
             description: ''
       - name: IP工具
@@ -60,13 +68,63 @@ categories:
             url: https://iplark.com/
             icon: fas fa-link
             description: ''
+      - name: 工具箱
+        icon: fas fa-folder
+        path:
+          - 实用工具
+          - 工具箱
+        sites:
+          - name: 开发者工具箱 - JSON格式化 Base64 正则 MD5 JWT - 星贝工具箱
+            url: https://www.tools.goodssoft.com/
+            icon: fas fa-link
+            description: ''
+          - name: 锦时 · 产品工具箱
+            url: https://www.y3pm.com/tools/comp
+            icon: fas fa-link
+            description: ''
+          - name: 光匣 - 在线生产力工具平台
+            url: https://www.qiguangit.com/
+            icon: fas fa-link
+            description: ''
   - name: 人工智能
     icon: fas fa-folder
     path:
       - 人工智能
     sites:
+      - name: 硅基流动 SiliconFlow - 致力于成为全球领先的 AI 能力提供商
+        url: https://cloud.siliconflow.cn/i/qrrTgJBt
+        icon: fas fa-link
+        description: ''
       - name: 'ChatGPT: Chat, Work, Create & Code with AI'
         url: https://chatgpt.com/
+        icon: fas fa-link
+        description: ''
+      - name: 'Microsoft Copilot: 你的 AI 助手'
+        url: https://copilot.microsoft.com/
+        icon: fab fa-microsoft
+        description: ''
+      - name: ‎Google Gemini
+        url: https://gemini.google.com/app
+        icon: fab fa-google
+        description: ''
+      - name: Grok
+        url: https://grok.com/
+        icon: fas fa-link
+        description: ''
+      - name: DeepSeek - 探索未至之境
+        url: https://chat.deepseek.com/sign_in
+        icon: fas fa-link
+        description: ''
+      - name: 豆包 - 字节跳动旗下 AI 智能助手
+        url: https://www.doubao.com/chat/
+        icon: fas fa-link
+        description: ''
+      - name: 扣子编程，你的 AI 开发伙伴， Vibe Coding 基础设施，自然语言对话开发智能体、工作流、网页应用、移动应用，一键部署上线
+        url: https://code.coze.cn/home
+        icon: fas fa-link
+        description: ''
+      - name: Kimi AI 官网 - K3 上线，专为智能体编程与知识工作打造
+        url: https://www.kimi.com/
         icon: fas fa-link
         description: ''
   - name: 在线设计
@@ -74,7 +132,7 @@ categories:
     path:
       - 在线设计
     sites:
-      - name: Canva：人人都能使用的视觉办公套件
+      - name: Canva
         url: https://www.canva.com/zh_cn/
         icon: fas fa-link
         description: ''
@@ -82,7 +140,7 @@ categories:
         url: https://www.canva.cn/
         icon: fas fa-link
         description: ''
-      - name: App Shots - 设计引人注目的应用商店截图
+      - name: App Shots：设计引人注目的应用商店截图
         url: https://www.appshots.top/
         icon: fas fa-link
         description: ''
