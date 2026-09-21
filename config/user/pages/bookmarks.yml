@@ -19,10 +19,6 @@ categories:
         url: https://www.nodeseek.com/
         icon: fas fa-link
         description: ''
-      - name: LINUX DO
-        url: https://linux.do/
-        icon: fas fa-link
-        description: ''
       - name: 吾爱破解
         url: https://www.52pojie.cn/
         icon: fas fa-link
@@ -33,6 +29,10 @@ categories:
         description: ''
       - name: 小众软件官方论坛
         url: https://meta.appinn.net/
+        icon: fas fa-link
+        description: ''
+      - name: LINUX DO - 新的理想型社区
+        url: https://linux.do/
         icon: fas fa-link
         description: ''
   - name: 实用工具
@@ -50,3 +50,35 @@ categories:
             url: https://llccj.cn/
             icon: fas fa-link
             description: ''
+      - name: IP工具
+        icon: fas fa-folder
+        path:
+          - 实用工具
+          - IP工具
+        sites:
+          - name: IPLark - 查看本机IP地址 - IP查询
+            url: https://iplark.com/
+            icon: fas fa-link
+            description: ''
+  - name: 人工智能
+    icon: fas fa-folder
+    path:
+      - 人工智能
+    sites:
+      - name: 'ChatGPT: Chat, Work, Create & Code with AI'
+        url: https://chatgpt.com/
+        icon: fas fa-link
+        description: ''
+  - name: 在线设计
+    icon: fas fa-folder
+    path:
+      - 在线设计
+    sites:
+      - name: Canva：人人都能使用的视觉办公套件
+        url: https://www.canva.com/zh_cn/
+        icon: fas fa-link
+        description: ''
+      - name: 可画：在线设计协作平台
+        url: https://www.canva.cn/
+        icon: fas fa-link
+        description: ''
