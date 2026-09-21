@@ -2,8 +2,8 @@
 # 建议复制到 config/user/site.yml 并按需调整；用户配置采用“完全替换”策略，将覆盖默认配置。
 
 # 网站基本信息
-title: MeNav
-description: Personal Navigation Station
+title: Ken的网站收藏夹
+description: 这是一个由Ken创建的导航网站
 author: rbetree
 favicon: menav.svg
 logo_text: MeNav
