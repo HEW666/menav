@@ -31,7 +31,7 @@ categories:
         url: https://meta.appinn.net/
         icon: fas fa-link
         description: ''
-      - name: LINUX DO
+      - name: LINUX DO - 新的理想型社区
         url: https://linux.do/
         icon: fas fa-link
         description: ''
@@ -132,7 +132,7 @@ categories:
     path:
       - 在线设计
     sites:
-      - name: Canva
+      - name: Canva：人人都能使用的视觉办公套件
         url: https://www.canva.com/zh_cn/
         icon: fas fa-link
         description: ''
