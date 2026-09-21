@@ -1,0 +1,52 @@
+# 自动生成的书签配置文件
+# 若要更新，请将新的书签HTML文件放入bookmarks/目录
+# 此文件使用模块化配置格式，位于config/user/pages/目录下
+
+title: 我的书签
+subtitle: 从浏览器导入的书签收藏
+template: bookmarks
+categories:
+  - name: 论坛社区
+    icon: fas fa-folder
+    path:
+      - 论坛社区
+    sites:
+      - name: NodeLoc
+        url: https://www.nodeloc.com/
+        icon: fas fa-link
+        description: ''
+      - name: NodeSeek
+        url: https://www.nodeseek.com/
+        icon: fas fa-link
+        description: ''
+      - name: LINUX DO
+        url: https://linux.do/
+        icon: fas fa-link
+        description: ''
+      - name: 吾爱破解
+        url: https://www.52pojie.cn/
+        icon: fas fa-link
+        description: ''
+      - name: 无忧启动论坛
+        url: https://bbs.wuyou.net/
+        icon: fas fa-link
+        description: ''
+      - name: 小众软件官方论坛
+        url: https://meta.appinn.net/
+        icon: fas fa-link
+        description: ''
+  - name: 实用工具
+    icon: fas fa-folder
+    path:
+      - 实用工具
+    subcategories:
+      - name: 图片工具
+        icon: fas fa-folder
+        path:
+          - 实用工具
+          - 图片工具
+        sites:
+          - name: 在线图片编辑工具
+            url: https://llccj.cn/
+            icon: fas fa-link
+            description: ''
