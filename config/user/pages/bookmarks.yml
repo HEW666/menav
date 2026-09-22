@@ -10,6 +10,21 @@ categories:
     icon: fas fa-folder
     path:
       - 论坛社区
+    subcategories:
+      - name: 网盘社区
+        icon: fas fa-folder
+        path:
+          - 论坛社区
+          - 网盘社区
+        sites:
+          - name: 网盘资源社-免费的主流网盘资源分享社区论坛
+            url: https://kuakezy.top/
+            icon: fas fa-link
+            description: ''
+          - name: yunpan1 - 云盘资源分享社区-yunpan1
+            url: https://www.yunpan1.cc/
+            icon: fas fa-link
+            description: ''
     sites:
       - name: NodeLoc
         url: https://www.nodeloc.com/
@@ -33,10 +48,6 @@ categories:
         description: ''
       - name: LINUX DO - 新的理想型社区
         url: https://linux.do/
-        icon: fas fa-link
-        description: ''
-      - name: 网盘资源社-免费的主流网盘资源分享社区论坛
-        url: https://kuakezy.top/
         icon: fas fa-link
         description: ''
   - name: 实用工具
@@ -144,3 +155,40 @@ categories:
         url: https://www.appshots.top/
         icon: fas fa-link
         description: ''
+  - name: 软件资源
+    icon: fas fa-folder
+    path:
+      - 软件资源
+    subcategories:
+      - name: MacOS软件
+        icon: fas fa-folder
+        path:
+          - 软件资源
+          - MacOS软件
+        sites:
+          - name: 精品MAC应用分享
+            url: https://xclient.info/
+            icon: fas fa-link
+            description: ''
+          - name: MacKed - 专注于Mac破解资源的分享与下载
+            url: https://macked.app/
+            icon: fas fa-link
+            description: ''
+          - name: appstorrent - игры и программы для macOS
+            url: https://appstorrent.ru/
+            icon: fas fa-link
+            description: ''
+      - name: Android软件
+        icon: fas fa-folder
+        path:
+          - 软件资源
+          - Android软件
+        sites:
+          - name: F-Droid - 自由来源的 Android 应用存储库
+            url: https://f-droid.org/zh_Hans/packages/
+            icon: fas fa-link
+            description: ''
+          - name: '定制版应用收藏: 一些提取自特定机型的定制版APP'
+            url: https://gitee.com/ww3w/dzb
+            icon: fas fa-link
+            description: ''
