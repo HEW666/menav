@@ -192,3 +192,21 @@ categories:
             url: https://gitee.com/ww3w/dzb
             icon: fas fa-link
             description: ''
+      - name: 破解软件
+        icon: fas fa-folder
+        path:
+          - 软件资源
+          - 破解软件
+        sites:
+          - name: FileCR - THE BIGGEST SOFTWARE STORE
+            url: https://filecr.com/home/
+            icon: fas fa-link
+            description: ''
+          - name: 免费下载Windows电脑程序
+            url: https://rsload.net/
+            icon: fas fa-link
+            description: ''
+          - name: 免费下载Windows应用
+            url: https://mloads.com/
+            icon: fas fa-link
+            description: ''
