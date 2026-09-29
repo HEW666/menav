@@ -21,9 +21,9 @@
 
 - **styles/**: CSS 模块目录（详见下方）
 
-- **menav.svg**: 网站图标和项目logo
+- **menav.svg**: 网站图标和项目 Logo
   - 显示在浏览器标签页、书签和收藏夹中
-  - SVG格式，包含黑色字母"M"和蓝色向上箭头设计
+  - SVG 格式，采用深色圆角方形、浅色字母 "M" 和青绿色上行箭头设计
 
 - **preview_light.png / preview_dark.png**: 主题预览图
   - 用于 README 文档展示
